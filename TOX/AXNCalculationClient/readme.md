@@ -1,0 +1,1 @@
+El nodo utilizado en la versión de TDAxis que se entregó para el trabajo de grado es "AXNCalculationClient_V4"
